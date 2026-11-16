@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Alejandro Lorente Salvador
 
@@ -84,42 +84,5 @@ El sistema contempla la gestión de vehículos y reservas, la consulta de dispon
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alejandrolorente7&theme=github_dark" alt="Estadísticas de GitHub" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alejandrolorente7&theme=github_dark" alt="Lenguajes más utilizados" />
-
-</div>
-
----
-
-## 🌍 Idiomas
-
-- **Español:** Nativo.
-- **Catalán:** Nativo.
-- **Inglés:** Comprensión técnica básica.
-
----
-
-## 📫 Conecta conmigo
-
-<div align="center">
-
-<a href="https://github.com/alejandrolorente7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://gitlab.com/alorente1">
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-</a>
-<a href="https://www.instagram.com/alejandro_l0rente07/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alex.lorente.2007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-**Gracias por visitar mi perfil. ¡Seguimos aprendiendo y creando!** 🚀
 
 </div>
