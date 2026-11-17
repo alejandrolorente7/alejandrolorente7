@@ -2,9 +2,9 @@
 
 # Alejandro Lorente Salvador
 
-### Estudiante de DAM | Junior Software Developer
+### DAM Student | Junior Software Developer
 
-📍 Rubí, Barcelona, España
+📍 Rubí, Barcelona, Spain
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrolorente7)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/alorente1)
@@ -14,22 +14,22 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-¡Hola! Soy **Alejandro Lorente Salvador**, estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Hi! I'm **Alejandro Lorente Salvador**, a **Multiplatform Application Development (DAM)** student.
 
-Me interesa la programación y el desarrollo de software. Durante mi formación he trabajado con distintas tecnologías y he participado en proyectos individuales y colaborativos.
+I'm interested in programming and software development. Throughout my studies, I've worked with various technologies and taken part in both individual and collaborative projects.
 
-Actualmente busco **prácticas y mi primera oportunidad profesional** en el sector tecnológico, donde pueda seguir aprendiendo, mejorar mis habilidades y aportar al equipo.
+I am currently looking for an **internship and my first professional opportunity** in the tech industry, where I can continue learning, develop my skills, and contribute to the team.
 
-- 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma.
-- 💻 Interesado en desarrollo backend, frontend y aplicaciones multiplataforma.
-- 🤝 Experiencia colaborando en proyectos de desarrollo.
-- 🚀 Aprendiendo y mejorando continuamente.
+- 🎓 Multiplatform Application Development (DAM) student.
+- 💻 Interested in backend, frontend, and cross-platform application development.
+- 🤝 Experience collaborating on software development projects.
+- 🚀 Constantly learning and improving my skills.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -48,26 +48,26 @@ Actualmente busco **prácticas y mi primera oportunidad profesional** en el sect
 
 ---
 
-## 🚗 Proyecto destacado: Nothingan Pri
+## 🚗 Featured Project: Nothingan Pri
 
-Aplicación web de gestión y alquiler de vehículos desarrollada en equipo como proyecto formativo de DAM.
+Web application for vehicle rental and management, developed as a team project during my DAM studies.
 
-El sistema contempla la gestión de vehículos y reservas, la consulta de disponibilidad y otras operaciones relacionadas con el alquiler.
+The system includes vehicle and reservation management, availability searches, and other rental-related operations.
 
-**Mi contribución incluye:**
+**My contributions include:**
 
-- Alta, consulta, listado, filtrado y anulación de reservas.
-- Consulta de disponibilidad y filtrado de vehículos según fechas.
-- Cálculo del coste total y resumen del presupuesto de una reserva.
-- Aplicación de descuentos para clientes premium.
-- Informe histórico de reservas por cliente.
-- Mejoras de filtros y experiencia de usuario.
-- Incorporación de imágenes de vehículos.
-- Participación en el desarrollo de la página principal.
+- Creating, viewing, listing, filtering, and cancelling reservations.
+- Checking vehicle availability and filtering vehicles by date.
+- Calculating the total cost and generating reservation price summaries.
+- Applying discounts for premium customers.
+- Generating historical reservation reports by customer.
+- Improving filters and user experience.
+- Integrating vehicle images.
+- Contributing to the development of the homepage.
 
-**Tecnologías:** Java · Spring Boot · MySQL · HTML · CSS · JavaScript · Thymeleaf · Maven · Git.
+**Technologies:** Java · Spring Boot · MySQL · HTML · CSS · JavaScript · Thymeleaf · Maven · Git.
 
-**Estado:** proyecto grupal en desarrollo. Algunas funcionalidades continúan en curso.
+**Status:** Group project currently in development. Some features are still in progress.
 
 <div align="center">
 
@@ -77,7 +77,7 @@ El sistema contempla la gestión de vehículos y reservas, la consulta de dispon
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
