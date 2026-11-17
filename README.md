@@ -71,7 +71,7 @@ The system includes vehicle and reservation management, availability searches, a
 
 <div align="center">
 
-[![GitLab Project](https://img.shields.io/badge/Ver_proyecto_en_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/grup47650143/projecte1)
+[![GitLab Project](https://img.shields.io/badge/View_Project_on_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/grup47650143/projecte1)
 
 </div>
 
