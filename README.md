@@ -64,6 +64,12 @@ I am currently looking for an **internship and my first professional opportunity
 
 ## 🚗 Featured Project: Nothingan Pri
 
+<div align="center">
+  <img src="nothingan-pri.png" alt="Nothingan Pri - Vehicle Rental Management" width="100%">
+</div>
+
+<br>
+
 Web application for vehicle rental and management, developed as a team project during my DAM studies.
 
 The system includes vehicle and reservation management, availability searches, and other rental-related operations.
