@@ -91,7 +91,7 @@ The system includes vehicle and reservation management, availability searches, a
 
 <div align="center">
 
-[![GitHub Project](https://img.shields.io/badge/View_Project_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrolorente7/projecte1)
+[![Explore Project](https://img.shields.io/badge/EXPLORE_PROJECT-007BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=101827)](https://github.com/alejandrolorente7/Projecte_Nothingan_Pri)
 
 </div>
 
