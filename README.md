@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Alejandro Lorente Salvador
 
@@ -6,11 +6,11 @@
 
 📍 Rubí, Barcelona, Spain
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrolorente7)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/alorente1)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alex.lorente.2007@gmail.com)
 
-\
-
-
-\</div>
+</div>
 
 ---
 
@@ -33,49 +33,53 @@ I am currently looking for an **internship and my first professional opportunity
 
 ### 💻 Programming Languages & Web Technologies
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-\</div>
+</div>
 
 ### ⚙️ Frameworks & Development
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)" />
-\<img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)" />
-\<img src="[https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge\&logo=thymeleaf\&logoColor=white)" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 
-\</div>
+</div>
 
 ### 🗄️ Databases
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-\</div>
+</div>
 
 ### 🔧 Tools, IDEs & Version Control
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" />
-\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-\<img src="[https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)" />
-\<img src="[https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
-\</div>
+</div>
 
 ### 🖥️ Development Environments
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" />
-\<img src="[https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge\&logo=apachenetbeanside\&logoColor=white)" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
 
-\</div>
+</div>
 
 ---
 
@@ -100,18 +104,19 @@ The system includes vehicle and reservation management, availability searches, a
 
 **Status:** Group project currently in development. Some features are still in progress.
 
-\<div align="center">
+<div align="center">
 
+[![GitLab Project](https://img.shields.io/badge/View_Project_on_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/grup47650143/projecte1)
 
-
-\</div>
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-\<div align="center">
+<div align="center">
 
-\<img height="165" src="[https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alejandrolorente7&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alejandrolorente7\&theme=github_dark)" alt="GitHub Statistics" /> \<img height="165" src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alejandrolorente7&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alejandrolorente7\&theme=github_dark)" alt="Most Used Languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alejandrolorente7&theme=github_dark" alt="GitHub Statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alejandrolorente7&theme=github_dark" alt="Most Used Languages" />
 
-\</div>
+</div>
