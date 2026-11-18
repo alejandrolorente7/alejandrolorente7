@@ -57,7 +57,7 @@ I am currently looking for an **internship and my first professional opportunity
 
 ### 🖥️ IDEs & Development Environments
 
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
 <a href="https://netbeans.apache.org/"><img src="https://img.shields.io/badge/NetBeans-2E8B57?style=for-the-badge&logo=apachenetbeanside&logoColor=white" /></a>
 
 ---
