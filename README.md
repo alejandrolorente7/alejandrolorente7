@@ -65,7 +65,7 @@ I am currently looking for an **internship and my first professional opportunity
 ## 🚗 Featured Project: Nothingan Pri
 
 <div align="center">
-  <img src="nothingan-pri.png" alt="Nothingan Pri - Vehicle Rental Management" width="100%">
+  <img src="nothingan-pri.png" alt="Nothingan Pri - Vehicle Rental Management" width="75%">
 </div>
 
 <br>
